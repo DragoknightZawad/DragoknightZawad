@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DragoknightZawad (Fahim Zawad)
 - 👀 a noob developer trying his best
-- 🌱 I’m currently completing my bsc in cse so you will mostly see educational stuffs here but sometimes I post dev related stuffs too
+- 🌱 I’m a fresh cs graduate so you will mostly see educational stuffs here but sometimes I post dev related stuffs too
 - 💞️ I’m looking to collaborate on opengl,c++,assembly and unreal engine related stuffs
 - 📫 How to reach me ... rajeshzawad@gmail.com
 
